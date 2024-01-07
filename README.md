@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Gaurav and I have recently started my coding journey!
+- 🌱 I’m currently learning python and Go lang
+- 📫 How to reach me: Twitter( @GauravBhar52786)
 
 <!--
 **GAURAVVVV02/GAURAVVVV02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

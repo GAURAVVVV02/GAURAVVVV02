@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **gauravbhardwaj@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1_sCpWqNAPbKTDxxXphr4CyN9T7rRYrXg/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1y_Eee0N8Zjg-Njj6tE5U7gCdIEHUg1Sr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

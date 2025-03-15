@@ -38,6 +38,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravvvv02&" alt="gauravvvv02" /></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gauravvvv02/gauravvvv02/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gauravvvv02/gauravvvv02/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@gauravbhar65940/30-nites-of-code)  
   ![@gauravbhar65940 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=gauravbhar65940)

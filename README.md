@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Python, Machine Learning, Neural Networks**
 
-- 📫 How to reach me **gauravbhardwaj@gmail.com**
+- 📫 How to reach me **gauravbhardwaj2018@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1y_Eee0N8Zjg-Njj6tE5U7gCdIEHUg1Sr/view?usp=sharing)
 

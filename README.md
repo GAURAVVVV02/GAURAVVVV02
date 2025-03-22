@@ -9,17 +9,17 @@
 
 - 🔭 I’m currently working on [Student Performance Indicator ML Project.](https://github.com/GAURAVVVV02/Student-Performance-Indicator-ML-Projectt)
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, OpenCV, PyTorch, Albumentations.**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, OpenCV, PyTorch, Albumentations**.
 
-- 👯 I’m looking to collaborate on **Data Science Projects**
+- 👯 I’m looking to collaborate on **Data Science Projects**.
 
-- 🤝 I’m looking for help with **Deep Learning**
+- 🤝 I’m looking for help with **Deep Learning**.
 
-- 💬 Ask me about **Python, Machine Learning, Neural Networks**
+- 💬 Ask me about **Python, Machine Learning, Neural Networks**.
 
-- 📫 How to reach me **gauravbhardwaj2018@gmail.com**
+- 📫 How to reach me **gauravbhardwaj2018@gmail.com**.
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1MjtLdi1qtnSk2vudlWzk4DoZDNigJwWD/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1MjtLdi1qtnSk2vudlWzk4DoZDNigJwWD/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

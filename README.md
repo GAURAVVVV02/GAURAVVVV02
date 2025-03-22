@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gauravbhar52786" target="blank"><img src="https://img.shields.io/twitter/follow/gauravbhar52786?logo=twitter&style=for-the-badge" alt="gauravbhar52786" /></a> </p>
 
-- 🔭 I’m currently working on [end to end Machine learning project](https://github.com/GAURAVVVV02/ML-Projects)
+- 🔭 I’m currently working on [Student Performance Indicator ML Project.](https://github.com/GAURAVVVV02/Student-Performance-Indicator-ML-Projectt)
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, OpenCV, PyTorch, Albumentations.**
 

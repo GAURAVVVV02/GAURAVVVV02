@@ -19,7 +19,9 @@
 
 - 📫 How to reach me **gauravbhardwaj2018@gmail.com**.
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1MjtLdi1qtnSk2vudlWzk4DoZDNigJwWD/view?usp=sharing).
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1MjtLdi1qtnSk2vudlWzk4DoZDNigJwWD/view?usp=sharing).
+
+- 🌐 Check out my work: [My Portfolio](https://gauravvvv02.github.io/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
